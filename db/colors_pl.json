@@ -1391,5 +1391,19 @@
         "defaultcolor": "fioletowy",
         "colorname": "karmin alizarynowy",
         "clicks": 1
+    },
+    {
+        "pk": 201,
+        "colorcode": "#00A693",
+        "defaultcolor": "zielony/niebieski",
+        "colorname": "grynszpan",
+        "clicks": 1
+    },
+    {
+        "pk": 202,
+        "colorcode": "#D5CBB4",
+        "defaultcolor": "brązowy",
+        "colorname": "szarobobrzasty",
+        "clicks": 1
     }
 ]
