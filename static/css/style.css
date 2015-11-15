@@ -33,6 +33,9 @@
     text-align: left;
     border-top-left-radius: 25px
 }
+#colorsCount {
+    font-weight: bold;
+}
 #cloud a {
     text-decoration: none
 }

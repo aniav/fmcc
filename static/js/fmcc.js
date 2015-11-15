@@ -63,6 +63,7 @@
         $.getJSON("db/colors_pl.json").done(function(data) {
             colors = parseColors(data);
             prepareCloud(data);
+            $("#colorsCount").text(colors.length);
         });
         $("#colorName").autocomplete({
             source: function(request, response) {
