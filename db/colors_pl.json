@@ -1,0 +1,1388 @@
+[
+    {
+        "pk": 44,
+        "colorcode": "#FC0300",
+        "defaultcolor": "czerwony",
+        "colorname": "czerwień wzrokowa",
+        "clicks": 2775
+    },
+    {
+        "pk": 39,
+        "colorcode": "#281208",
+        "defaultcolor": "brązowy",
+        "colorname": "czekoladowy",
+        "clicks": 2003
+    },
+    {
+        "pk": 192,
+        "colorcode": "#FFC125",
+        "defaultcolor": "żółty",
+        "colorname": "złocisty",
+        "clicks": 840
+    },
+    {
+        "pk": 41,
+        "colorcode": "#E34234",
+        "defaultcolor": "czerwony",
+        "colorname": "czerwień cynobrowa",
+        "clicks": 2569
+    },
+    {
+        "pk": 55,
+        "colorcode": "#696968",
+        "defaultcolor": "szary",
+        "colorname": "gołębi",
+        "clicks": 2119
+    },
+    {
+        "pk": 18,
+        "colorcode": "#FFBF00",
+        "defaultcolor": "żółty",
+        "colorname": "bursztyn",
+        "clicks": 1585
+    },
+    {
+        "pk": 50,
+        "colorcode": "#EE82EE",
+        "defaultcolor": "różowy",
+        "colorname": "fiołkowy",
+        "clicks": 2626
+    },
+    {
+        "pk": 8,
+        "colorcode": "#FFDB3D",
+        "defaultcolor": "żółty",
+        "colorname": "bananowy",
+        "clicks": 1305
+    },
+    {
+        "pk": 98,
+        "colorcode": "#E64548",
+        "defaultcolor": "czerwony",
+        "colorname": "makowy",
+        "clicks": 616
+    },
+    {
+        "pk": 14,
+        "colorcode": "#964B00",
+        "defaultcolor": "brązowy",
+        "colorname": "brązowy",
+        "clicks": 1313
+    },
+    {
+        "pk": 102,
+        "colorcode": "#B2D678",
+        "defaultcolor": "zielony",
+        "colorname": "marengo",
+        "clicks": 2325
+    },
+    {
+        "pk": 93,
+        "colorcode": "#006F73",
+        "defaultcolor": "zielony",
+        "colorname": "lagunowy",
+        "clicks": 635
+    },
+    {
+        "pk": 156,
+        "colorcode": "#E97451",
+        "defaultcolor": "pomarańczowy",
+        "colorname": "siena palona",
+        "clicks": 2437
+    },
+    {
+        "pk": 63,
+        "colorcode": "#4B0082",
+        "defaultcolor": "fioletowy",
+        "colorname": "indygo",
+        "clicks": 4328
+    },
+    {
+        "pk": 101,
+        "colorcode": "#FD751D",
+        "defaultcolor": "pomarańczowy",
+        "colorname": "marchewkowy",
+        "clicks": 643
+    },
+    {
+        "pk": 75,
+        "colorcode": "#C3B091",
+        "defaultcolor": "brązowy",
+        "colorname": "khaki",
+        "clicks": 4730
+    },
+    {
+        "pk": 114,
+        "colorcode": "#E3E7E6",
+        "defaultcolor": "szary",
+        "colorname": "mysi",
+        "clicks": 649
+    },
+    {
+        "pk": 66,
+        "colorcode": "#CDEBA7",
+        "defaultcolor": "zielony",
+        "colorname": "jaśminowy",
+        "clicks": 1485
+    },
+    {
+        "pk": 178,
+        "colorcode": "#73542F",
+        "defaultcolor": "brązowy",
+        "colorname": "umbra",
+        "clicks": 1448
+    },
+    {
+        "pk": 20,
+        "colorcode": "#11341C",
+        "defaultcolor": "zielony",
+        "colorname": "butelkowy",
+        "clicks": 2245
+    },
+    {
+        "pk": 180,
+        "colorcode": "#8F0303",
+        "defaultcolor": "czerwony",
+        "colorname": "wiśniowy",
+        "clicks": 1260
+    },
+    {
+        "pk": 158,
+        "colorcode": "#0B080E",
+        "defaultcolor": "czarny",
+        "colorname": "smolisty",
+        "clicks": 703
+    },
+    {
+        "pk": 27,
+        "colorcode": "#F0FFFF",
+        "defaultcolor": "niebieski",
+        "colorname": "błękitny",
+        "clicks": 2493
+    },
+    {
+        "pk": 91,
+        "colorcode": "#DD9ECD",
+        "defaultcolor": "różowy",
+        "colorname": "liliowy",
+        "clicks": 1729
+    },
+    {
+        "pk": 195,
+        "colorcode": "#FFFF00",
+        "defaultcolor": "żółty",
+        "colorname": "żółty",
+        "clicks": 1584
+    },
+    {
+        "pk": 117,
+        "colorcode": "#3B0E11",
+        "defaultcolor": "brązowy",
+        "colorname": "oberżynowy",
+        "clicks": 2746
+    },
+    {
+        "pk": 106,
+        "colorcode": "#BCE27F",
+        "defaultcolor": "zielony",
+        "colorname": "miętowy",
+        "clicks": 1637
+    },
+    {
+        "pk": 161,
+        "colorcode": "#EBEFF2",
+        "defaultcolor": "szary",
+        "colorname": "stalowy",
+        "clicks": 490
+    },
+    {
+        "pk": 19,
+        "colorcode": "#6B5636",
+        "defaultcolor": "brązowy",
+        "colorname": "bury",
+        "clicks": 1188
+    },
+    {
+        "pk": 85,
+        "colorcode": "#C9A2bF",
+        "defaultcolor": "fioletowy",
+        "colorname": "lawendowy",
+        "clicks": 2135
+    },
+    {
+        "pk": 181,
+        "colorcode": "#E2E1A3",
+        "defaultcolor": "beżowy",
+        "colorname": "woskowy",
+        "clicks": 225
+    },
+    {
+        "pk": 119,
+        "colorcode": "#808000",
+        "defaultcolor": "zielony",
+        "colorname": "oliwkowy",
+        "clicks": 2561
+    },
+    {
+        "pk": 196,
+        "colorcode": "#A67C41",
+        "defaultcolor": "brązowy",
+        "colorname": "musztardowy",
+        "clicks": 743
+    },
+    {
+        "pk": 165,
+        "colorcode": "#808080",
+        "defaultcolor": "szary",
+        "colorname": "szary",
+        "clicks": 1355
+    },
+    {
+        "pk": 148,
+        "colorcode": "#7D0201",
+        "defaultcolor": "czerwony",
+        "colorname": "rubinowy",
+        "clicks": 1503
+    },
+    {
+        "pk": 108,
+        "colorcode": "#FAA907",
+        "defaultcolor": "pomarańczowy",
+        "colorname": "miodowy",
+        "clicks": 767
+    },
+    {
+        "pk": 72,
+        "colorcode": "#800000",
+        "defaultcolor": "brązowy",
+        "colorname": "kasztanowy",
+        "clicks": 965
+    },
+    {
+        "pk": 76,
+        "colorcode": "#19247C",
+        "defaultcolor": "niebieski",
+        "colorname": "kobaltowy",
+        "clicks": 2371
+    },
+    {
+        "pk": 49,
+        "colorcode": "#B803FF",
+        "defaultcolor": "filetowy",
+        "colorname": "fioletowy",
+        "clicks": 3142
+    },
+    {
+        "pk": 78,
+        "colorcode": "#FF7F50",
+        "defaultcolor": "czerwony",
+        "colorname": "koralowy",
+        "clicks": 1108
+    },
+    {
+        "pk": 62,
+        "colorcode": "#663602",
+        "defaultcolor": "brązowy",
+        "colorname": "herbaciany",
+        "clicks": 1933
+    },
+    {
+        "pk": 120,
+        "colorcode": "#38393B",
+        "defaultcolor": "szary",
+        "colorname": "ołowiany",
+        "clicks": 725
+    },
+    {
+        "pk": 118,
+        "colorcode": "#CC7722",
+        "defaultcolor": "brązowy",
+        "colorname": "ochra",
+        "clicks": 1300
+    },
+    {
+        "pk": 95,
+        "colorcode": "#FF00FF",
+        "defaultcolor": "różowy",
+        "colorname": "magenta",
+        "clicks": 2541
+    },
+    {
+        "pk": 193,
+        "colorcode": "#FFD700",
+        "defaultcolor": "żółty",
+        "colorname": "złoty",
+        "clicks": 912
+    },
+    {
+        "pk": 107,
+        "colorcode": "#FE5930",
+        "defaultcolor": "czerwony",
+        "colorname": "minia",
+        "clicks": 932
+    },
+    {
+        "pk": 176,
+        "colorcode": "#DA7C20",
+        "defaultcolor": "brązowy",
+        "colorname": "ugier",
+        "clicks": 1302
+    },
+    {
+        "pk": 84,
+        "colorcode": "#F68F8A",
+        "defaultcolor": "różowy",
+        "colorname": "landrynkowy",
+        "clicks": 715
+    },
+    {
+        "pk": 154,
+        "colorcode": "#482636",
+        "defaultcolor": "fioletowy",
+        "colorname": "siny",
+        "clicks": 490
+    },
+    {
+        "pk": 142,
+        "colorcode": "#903018",
+        "defaultcolor": "brązowy",
+        "colorname": "rdzawy",
+        "clicks": 403
+    },
+    {
+        "pk": 173,
+        "colorcode": "#FC3131",
+        "defaultcolor": "czerwony",
+        "colorname": "truskawkowy",
+        "clicks": 809
+    },
+    {
+        "pk": 36,
+        "colorcode": "#E34234",
+        "defaultcolor": "czerwony",
+        "colorname": "cynobrowy",
+        "clicks": 1420
+    },
+    {
+        "pk": 155,
+        "colorcode": "#333333",
+        "defaultcolor": "szary",
+        "colorname": "siwy",
+        "clicks": 454
+    },
+    {
+        "pk": 57,
+        "colorcode": "#000080",
+        "defaultcolor": "niebieski",
+        "colorname": "granatowy",
+        "clicks": 1916
+    },
+    {
+        "pk": 134,
+        "colorcode": "#FFA500",
+        "defaultcolor": "pomarańczowy",
+        "colorname": "pomarańczowy",
+        "clicks": 1747
+    },
+    {
+        "pk": 67,
+        "colorcode": "#906030",
+        "defaultcolor": "brązowy",
+        "colorname": "kakaowy",
+        "clicks": 333
+    },
+    {
+        "pk": 166,
+        "colorcode": "#7E000E",
+        "defaultcolor": "czerwony",
+        "colorname": "szkarłatny",
+        "clicks": 1740
+    },
+    {
+        "pk": 163,
+        "colorcode": "#082567",
+        "defaultcolor": "niebieski",
+        "colorname": "szafirowy",
+        "clicks": 2781
+    },
+    {
+        "pk": 153,
+        "colorcode": "#D1945D",
+        "defaultcolor": "brązowy",
+        "colorname": "siarkowy",
+        "clicks": 369
+    },
+    {
+        "pk": 160,
+        "colorcode": "#C0C0C0",
+        "defaultcolor": "szary",
+        "colorname": "srebrny",
+        "clicks": 1056
+    },
+    {
+        "pk": 65,
+        "colorcode": "#AE005F",
+        "defaultcolor": "fioletowy",
+        "colorname": "jagodowy",
+        "clicks": 1006
+    },
+    {
+        "pk": 149,
+        "colorcode": "#F02222",
+        "defaultcolor": "czerwony",
+        "colorname": "rudy",
+        "clicks": 851
+    },
+    {
+        "pk": 83,
+        "colorcode": "#FFF392",
+        "defaultcolor": "żółty",
+        "colorname": "kukurydziany",
+        "clicks": 641
+    },
+    {
+        "pk": 88,
+        "colorcode": "#5F6401",
+        "defaultcolor": "zielony",
+        "colorname": "leszczynowy",
+        "clicks": 1078
+    },
+    {
+        "pk": 157,
+        "colorcode": "#F3E4A9",
+        "defaultcolor": "beżowy",
+        "colorname": "słomkowy",
+        "clicks": 835
+    },
+    {
+        "pk": 179,
+        "colorcode": "#5F0E35",
+        "defaultcolor": "fioletowy",
+        "colorname": "winny",
+        "clicks": 396
+    },
+    {
+        "pk": 54,
+        "colorcode": "#852F25",
+        "defaultcolor": "czerwony",
+        "colorname": "gliniasty",
+        "clicks": 590
+    },
+    {
+        "pk": 30,
+        "colorcode": "#F3CD6D",
+        "defaultcolor": "żółty",
+        "colorname": "chamois",
+        "clicks": 2041
+    },
+    {
+        "pk": 111,
+        "colorcode": "#3EC7C3",
+        "defaultcolor": "niebieski",
+        "colorname": "modry",
+        "clicks": 1038
+    },
+    {
+        "pk": 96,
+        "colorcode": "#502000",
+        "defaultcolor": "brązowy",
+        "colorname": "mahoń",
+        "clicks": 925
+    },
+    {
+        "pk": 79,
+        "colorcode": "#F3ECE6",
+        "defaultcolor": "beżowy",
+        "colorname": "kość słoniowa",
+        "clicks": 1917
+    },
+    {
+        "pk": 122,
+        "colorcode": "#AD6F1E",
+        "defaultcolor": "brązowy",
+        "colorname": "orzechowy",
+        "clicks": 679
+    },
+    {
+        "pk": 140,
+        "colorcode": "#C2DDDC",
+        "defaultcolor": "niebieski",
+        "colorname": "ptasi",
+        "clicks": 625
+    },
+    {
+        "pk": 59,
+        "colorcode": "#FCF2CC",
+        "defaultcolor": "beżowy",
+        "colorname": "gruszkowy",
+        "clicks": 729
+    },
+    {
+        "pk": 121,
+        "colorcode": "#FFA500",
+        "defaultcolor": "pomarańczowy",
+        "colorname": "oranż",
+        "clicks": 664
+    },
+    {
+        "pk": 15,
+        "colorcode": "#70201F",
+        "defaultcolor": "brązowy",
+        "colorname": "brunatny",
+        "clicks": 825
+    },
+    {
+        "pk": 29,
+        "colorcode": "#6495ED",
+        "defaultcolor": "niebieski",
+        "colorname": "chabrowy",
+        "clicks": 2512
+    },
+    {
+        "pk": 135,
+        "colorcode": "#FF6347",
+        "defaultcolor": "czerwony",
+        "colorname": "pomidorowy",
+        "clicks": 658
+    },
+    {
+        "pk": 109,
+        "colorcode": "#FEFEE1",
+        "defaultcolor": "biały",
+        "colorname": "mleczny",
+        "clicks": 434
+    },
+    {
+        "pk": 150,
+        "colorcode": "#382A2A",
+        "defaultcolor": "szary",
+        "colorname": "sadza angielska",
+        "clicks": 1150
+    },
+    {
+        "pk": 171,
+        "colorcode": "#870121",
+        "defaultcolor": "czerwony",
+        "colorname": "tango",
+        "clicks": 454
+    },
+    {
+        "pk": 162,
+        "colorcode": "#DA9620",
+        "defaultcolor": "żółty",
+        "colorname": "stare złoto",
+        "clicks": 777
+    },
+    {
+        "pk": 194,
+        "colorcode": "#F0C832",
+        "defaultcolor": "żółty",
+        "colorname": "żółcień",
+        "clicks": 1020
+    },
+    {
+        "pk": 172,
+        "colorcode": "#7BCE45",
+        "defaultcolor": "zielony",
+        "colorname": "trawiasty",
+        "clicks": 657
+    },
+    {
+        "pk": 113,
+        "colorcode": "#20B2AA",
+        "defaultcolor": "zielony/niebieski",
+        "colorname": "morski",
+        "clicks": 4192
+    },
+    {
+        "pk": 6,
+        "colorcode": "#07103B",
+        "defaultcolor": "niebieski",
+        "colorname": "atramentowy",
+        "clicks": 713
+    },
+    {
+        "pk": 16,
+        "colorcode": "#690021",
+        "defaultcolor": "czerwony",
+        "colorname": "buraczkowy",
+        "clicks": 1882
+    },
+    {
+        "pk": 97,
+        "colorcode": "#FFE2F1",
+        "defaultcolor": "różowy",
+        "colorname": "majtkowy",
+        "clicks": 2363
+    },
+    {
+        "pk": 129,
+        "colorcode": "#F3ECDB",
+        "defaultcolor": "beżowy",
+        "colorname": "piaskowy",
+        "clicks": 1153
+    },
+    {
+        "pk": 112,
+        "colorcode": "#FFA58F",
+        "defaultcolor": "różowy",
+        "colorname": "morelowy",
+        "clicks": 1312
+    },
+    {
+        "pk": 146,
+        "colorcode": "#D07767",
+        "defaultcolor": "różowy",
+        "colorname": "róż wenecki",
+        "clicks": 3305
+    },
+    {
+        "pk": 185,
+        "colorcode": "#3A3B02",
+        "defaultcolor": "zielony",
+        "colorname": "zieleń manganowa",
+        "clicks": 1746
+    },
+    {
+        "pk": 58,
+        "colorcode": "#85D234",
+        "defaultcolor": "zielony",
+        "colorname": "groszkowy",
+        "clicks": 1721
+    },
+    {
+        "pk": 167,
+        "colorcode": "#659752",
+        "defaultcolor": "zielony",
+        "colorname": "szmaragdowy",
+        "clicks": 2282
+    },
+    {
+        "pk": 48,
+        "colorcode": "#4D5D53",
+        "defaultcolor": "szary",
+        "colorname": "feldgrau",
+        "clicks": 2037
+    },
+    {
+        "pk": 7,
+        "colorcode": "#F9E04B",
+        "defaultcolor": "żółty",
+        "colorname": "bahama yellow",
+        "clicks": 2104
+    },
+    {
+        "pk": 110,
+        "colorcode": "#9AC9C3",
+        "defaultcolor": "niebieski",
+        "colorname": "modrakowy",
+        "clicks": 614
+    },
+    {
+        "pk": 12,
+        "colorcode": "#500000",
+        "defaultcolor": "czerwony",
+        "colorname": "bordowy",
+        "clicks": 5162
+    },
+    {
+        "pk": 126,
+        "colorcode": "#6EBE9F",
+        "defaultcolor": "zielony",
+        "colorname": "patynowy",
+        "clicks": 493
+    },
+    {
+        "pk": 123,
+        "colorcode": "#901F0F",
+        "defaultcolor": "brązowy",
+        "colorname": "palisander",
+        "clicks": 1002
+    },
+    {
+        "pk": 139,
+        "colorcode": "#F5DEB3",
+        "defaultcolor": "beżowy",
+        "colorname": "pszeniczny",
+        "clicks": 384
+    },
+    {
+        "pk": 77,
+        "colorcode": "#C73C07",
+        "defaultcolor": "pomarańczowy",
+        "colorname": "koniakowy",
+        "clicks": 349
+    },
+    {
+        "pk": 74,
+        "colorcode": "#2C1B01",
+        "defaultcolor": "brązowy",
+        "colorname": "kawowy",
+        "clicks": 609
+    },
+    {
+        "pk": 61,
+        "colorcode": "#2B130D",
+        "defaultcolor": "brązowy",
+        "colorname": "heban",
+        "clicks": 1002
+    },
+    {
+        "pk": 170,
+        "colorcode": "#A39726",
+        "defaultcolor": "brązowy",
+        "colorname": "tabaczkowy",
+        "clicks": 845
+    },
+    {
+        "pk": 187,
+        "colorcode": "#0C5231",
+        "defaultcolor": "zielony",
+        "colorname": "zieleń Veronesa",
+        "clicks": 2080
+    },
+    {
+        "pk": 80,
+        "colorcode": "#A8024D",
+        "defaultcolor": "fioletowy",
+        "colorname": "kraplak",
+        "clicks": 772
+    },
+    {
+        "pk": 31,
+        "colorcode": "#F7E5DA",
+        "defaultcolor": "różowy",
+        "colorname": "cielisty",
+        "clicks": 995
+    },
+    {
+        "pk": 128,
+        "colorcode": "#FAFAE7",
+        "defaultcolor": "beżowy",
+        "colorname": "perłowy",
+        "clicks": 923
+    },
+    {
+        "pk": 82,
+        "colorcode": "#CF2929",
+        "defaultcolor": "czerwony",
+        "colorname": "krwisty",
+        "clicks": 565
+    },
+    {
+        "pk": 125,
+        "colorcode": "#93DC69",
+        "defaultcolor": "zielony",
+        "colorname": "papuzi",
+        "clicks": 1489
+    },
+    {
+        "pk": 188,
+        "colorcode": "#98CD09",
+        "defaultcolor": "zielony",
+        "colorname": "zieleń wiosenna",
+        "clicks": 1525
+    },
+    {
+        "pk": 191,
+        "colorcode": "#CCBFAE",
+        "defaultcolor": "brązowy/szary",
+        "colorname": "ziemisty",
+        "clicks": 369
+    },
+    {
+        "pk": 13,
+        "colorcode": "#FFCC99",
+        "defaultcolor": "beżowy",
+        "colorname": "brzoskwiniowy",
+        "clicks": 3508
+    },
+    {
+        "pk": 186,
+        "colorcode": "#2E8B57",
+        "defaultcolor": "zielony",
+        "colorname": "zieleń morska",
+        "clicks": 1701
+    },
+    {
+        "pk": 130,
+        "colorcode": "#EEFFBB",
+        "defaultcolor": "beżowy/zielony",
+        "colorname": "pistacjowy",
+        "clicks": 3562
+    },
+    {
+        "pk": 68,
+        "colorcode": "#F7E56D",
+        "defaultcolor": "żółty",
+        "colorname": "kanarkowy",
+        "clicks": 1807
+    },
+    {
+        "pk": 168,
+        "colorcode": "#7E188D",
+        "defaultcolor": "fioletowy",
+        "colorname": "śliwkowy",
+        "clicks": 3109
+    },
+    {
+        "pk": 104,
+        "colorcode": "#FFEE6B",
+        "defaultcolor": "żółty",
+        "colorname": "maślany",
+        "clicks": 455
+    },
+    {
+        "pk": 60,
+        "colorcode": "#FFFF66",
+        "defaultcolor": "żółty",
+        "colorname": "gumiguta",
+        "clicks": 955
+    },
+    {
+        "pk": 10,
+        "colorcode": "#FFFFFF",
+        "defaultcolor": "biały",
+        "colorname": "biały",
+        "clicks": 1700
+    },
+    {
+        "pk": 131,
+        "colorcode": "#FDE456",
+        "defaultcolor": "żółty",
+        "colorname": "piwny",
+        "clicks": 953
+    },
+    {
+        "pk": 35,
+        "colorcode": "#9D5B03",
+        "defaultcolor": "brązowy",
+        "colorname": "cynamonowy",
+        "clicks": 794
+    },
+    {
+        "pk": 38,
+        "colorcode": "#000000",
+        "defaultcolor": "czarny",
+        "colorname": "czarny",
+        "clicks": 2519
+    },
+    {
+        "pk": 86,
+        "colorcode": "#288EED",
+        "defaultcolor": "niebieski",
+        "colorname": "lapis-lazuli",
+        "clicks": 1145
+    },
+    {
+        "pk": 143,
+        "colorcode": "#6B7D32",
+        "defaultcolor": "zielony",
+        "colorname": "rezedowy",
+        "clicks": 444
+    },
+    {
+        "pk": 28,
+        "colorcode": "#B22222",
+        "defaultcolor": "czerwony",
+        "colorname": "ceglasty",
+        "clicks": 1191
+    },
+    {
+        "pk": 105,
+        "colorcode": "#AA6837",
+        "defaultcolor": "brązowy",
+        "colorname": "miedziany",
+        "clicks": 688
+    },
+    {
+        "pk": 69,
+        "colorcode": "#A80808",
+        "defaultcolor": "czerwony",
+        "colorname": "kardynalski",
+        "clicks": 966
+    },
+    {
+        "pk": 115,
+        "colorcode": "#D3BF11",
+        "defaultcolor": "żółty",
+        "colorname": "mosiądzowy",
+        "clicks": 263
+    },
+    {
+        "pk": 56,
+        "colorcode": "#443A3A",
+        "defaultcolor": "szary",
+        "colorname": "grafitowy",
+        "clicks": 1912
+    },
+    {
+        "pk": 152,
+        "colorcode": "#a45200",
+        "defaultcolor": "brązowy",
+        "colorname": "sepia",
+        "clicks": 994
+    },
+    {
+        "pk": 52,
+        "colorcode": "#DEFF99",
+        "defaultcolor": "zielony",
+        "colorname": "fluorescencyjny",
+        "clicks": 1676
+    },
+    {
+        "pk": 90,
+        "colorcode": "#DEB4CB",
+        "defaultcolor": "różowy",
+        "colorname": "lila róż",
+        "clicks": 2397
+    },
+    {
+        "pk": 138,
+        "colorcode": "#CF2F2F",
+        "defaultcolor": "czerwony",
+        "colorname": "poziomkowy",
+        "clicks": 587
+    },
+    {
+        "pk": 70,
+        "colorcode": "#DC143C",
+        "defaultcolor": "czerwony",
+        "colorname": "karmazynowy",
+        "clicks": 4048
+    },
+    {
+        "pk": 127,
+        "colorcode": "#DC143C",
+        "defaultcolor": "czerwony",
+        "colorname": "pąsowy",
+        "clicks": 454
+    },
+    {
+        "pk": 99,
+        "colorcode": "#035440",
+        "defaultcolor": "zielony",
+        "colorname": "malachitowy",
+        "clicks": 1498
+    },
+    {
+        "pk": 34,
+        "colorcode": "#A2007B",
+        "defaultcolor": "różowy",
+        "colorname": "cyklamen",
+        "clicks": 1514
+    },
+    {
+        "pk": 42,
+        "colorcode": "#DC143C",
+        "defaultcolor": "czerwony",
+        "colorname": "czerwień karmazynowa (czerwień krwi żylnej)",
+        "clicks": 4555
+    },
+    {
+        "pk": 45,
+        "colorcode": "#C05555",
+        "defaultcolor": "czerwony",
+        "colorname": "czerwień żelazowa",
+        "clicks": 2273
+    },
+    {
+        "pk": 137,
+        "colorcode": "#FAF7E5",
+        "defaultcolor": "beżowy",
+        "colorname": "porcelanowy",
+        "clicks": 880
+    },
+    {
+        "pk": 136,
+        "colorcode": "#666666",
+        "defaultcolor": "szary",
+        "colorname": "popielaty",
+        "clicks": 1164
+    },
+    {
+        "pk": 189,
+        "colorcode": "#618358",
+        "defaultcolor": "zielony",
+        "colorname": "zieleń zgniła",
+        "clicks": 1849
+    },
+    {
+        "pk": 26,
+        "colorcode": "#082E79",
+        "defaultcolor": "niebieski",
+        "colorname": "błękit Turnbulla",
+        "clicks": 3514
+    },
+    {
+        "pk": 73,
+        "colorcode": "#CCB791",
+        "defaultcolor": "brązowy",
+        "colorname": "kawa z mlekiem",
+        "clicks": 2270
+    },
+    {
+        "pk": 43,
+        "colorcode": "#AB0634",
+        "defaultcolor": "czerwony",
+        "colorname": "czerwień turecka",
+        "clicks": 2712
+    },
+    {
+        "pk": 37,
+        "colorcode": "#F4FF0B",
+        "defaultcolor": "żółty",
+        "colorname": "cytrynowy",
+        "clicks": 1613
+    },
+    {
+        "pk": 87,
+        "colorcode": "#007FFF",
+        "defaultcolor": "niebieski",
+        "colorname": "lazurowy",
+        "clicks": 3480
+    },
+    {
+        "pk": 145,
+        "colorcode": "#B80000",
+        "defaultcolor": "czerwony",
+        "colorname": "róż pompejański",
+        "clicks": 7500
+    },
+    {
+        "pk": 71,
+        "colorcode": "#E44A64",
+        "defaultcolor": "czerwony",
+        "colorname": "karminowy",
+        "clicks": 2600
+    },
+    {
+        "pk": 92,
+        "colorcode": "#00FF00",
+        "defaultcolor": "zielony",
+        "colorname": "limonkowy",
+        "clicks": 954
+    },
+    {
+        "pk": 183,
+        "colorcode": "#C9FFC7",
+        "defaultcolor": "zielony",
+        "colorname": "zieleń chirurgiczna",
+        "clicks": 2397
+    },
+    {
+        "pk": 24,
+        "colorcode": "#003153",
+        "defaultcolor": "niebieski",
+        "colorname": "błękit pruski",
+        "clicks": 3490
+    },
+    {
+        "pk": 133,
+        "colorcode": "#D9D4C3",
+        "defaultcolor": "szary",
+        "colorname": "płowy",
+        "clicks": 680
+    },
+    {
+        "pk": 103,
+        "colorcode": "#B1C5A3",
+        "defaultcolor": "szary",
+        "colorname": "marmurkowaty",
+        "clicks": 536
+    },
+    {
+        "pk": 124,
+        "colorcode": "#F8F5EE",
+        "defaultcolor": "biały",
+        "colorname": "papieski",
+        "clicks": 1020
+    },
+    {
+        "pk": 132,
+        "colorcode": "#E2DFC7",
+        "defaultcolor": "beżowy",
+        "colorname": "platynowy",
+        "clicks": 529
+    },
+    {
+        "pk": 32,
+        "colorcode": "#006400",
+        "defaultcolor": "zielony",
+        "colorname": "ciemnozielony",
+        "clicks": 1130
+    },
+    {
+        "pk": 190,
+        "colorcode": "#008000",
+        "defaultcolor": "zielony",
+        "colorname": "zielony",
+        "clicks": 2439
+    },
+    {
+        "pk": 197,
+        "colorcode": "#FFFAB2",
+        "defaultcolor": "żółty",
+        "colorname": "żółć neapolitańska",
+        "clicks": 942
+    },
+    {
+        "pk": 64,
+        "colorcode": "#F8EDF6",
+        "defaultcolor": "beżowy",
+        "colorname": "izabelowy",
+        "clicks": 1227
+    },
+    {
+        "pk": 182,
+        "colorcode": "#DD55DD",
+        "defaultcolor": "fioletowy",
+        "colorname": "wrzosowy",
+        "clicks": 2176
+    },
+    {
+        "pk": 89,
+        "colorcode": "#F7F2F9",
+        "defaultcolor": "różowy",
+        "colorname": "lila",
+        "clicks": 1321
+    },
+    {
+        "pk": 81,
+        "colorcode": "#FCFBE3",
+        "defaultcolor": "beżowy",
+        "colorname": "kremowy",
+        "clicks": 1857
+    },
+    {
+        "pk": 141,
+        "colorcode": "#800080",
+        "defaultcolor": "fioletowy",
+        "colorname": "purpurowy",
+        "clicks": 3093
+    },
+    {
+        "pk": 177,
+        "colorcode": "#002D6E",
+        "defaultcolor": "niebieski",
+        "colorname": "ultramaryna",
+        "clicks": 3516
+    },
+    {
+        "pk": 164,
+        "colorcode": "#FFD477",
+        "defaultcolor": "żółty",
+        "colorname": "szafranowy",
+        "clicks": 2135
+    },
+    {
+        "pk": 175,
+        "colorcode": "#BD4800",
+        "defaultcolor": "brązowy",
+        "colorname": "tycjan",
+        "clicks": 1313
+    },
+    {
+        "pk": 33,
+        "colorcode": "#00FFFF",
+        "defaultcolor": "niebieski",
+        "colorname": "cyjan",
+        "clicks": 1861
+    },
+    {
+        "pk": 100,
+        "colorcode": "#EB0165",
+        "defaultcolor": "czerwony",
+        "colorname": "malinowy",
+        "clicks": 1721
+    },
+    {
+        "pk": 144,
+        "colorcode": "#CF8791",
+        "defaultcolor": "różowy",
+        "colorname": "róż indyjski",
+        "clicks": 3945
+    },
+    {
+        "pk": 51,
+        "colorcode": "#BD5151",
+        "defaultcolor": "czerwony",
+        "colorname": "fokstrot",
+        "clicks": 1299
+    },
+    {
+        "pk": 159,
+        "colorcode": "#3F2109",
+        "defaultcolor": "brązowy",
+        "colorname": "spiżowy",
+        "clicks": 585
+    },
+    {
+        "pk": 169,
+        "colorcode": "#7E188D",
+        "defaultcolor": "fioletowy",
+        "colorname": "śliwka",
+        "clicks": 2630
+    },
+    {
+        "pk": 184,
+        "colorcode": "#035440",
+        "defaultcolor": "zielony",
+        "colorname": "zieleń malachitowa",
+        "clicks": 1852
+    },
+    {
+        "pk": 40,
+        "colorcode": "#BF0257",
+        "defaultcolor": "czerwony",
+        "colorname": "czerwień alizarynowa",
+        "clicks": 2720
+    },
+    {
+        "pk": 53,
+        "colorcode": "#FF00FF",
+        "defaultcolor": "różowy/fioletowy",
+        "colorname": "fuksja",
+        "clicks": 43500
+    },
+    {
+        "pk": 23,
+        "colorcode": "#0027C2",
+        "defaultcolor": "niebieski",
+        "colorname": "błękit paryski",
+        "clicks": 45086
+    },
+    {
+        "pk": 5,
+        "colorcode": "#FF6D66",
+        "defaultcolor": "czerwony/różowy",
+        "colorname": "arbuzowy",
+        "clicks": 36478
+    },
+    {
+        "pk": 9,
+        "colorcode": "#F5F5DC",
+        "defaultcolor": "beżowy",
+        "colorname": "beżowy",
+        "clicks": 26080
+    },
+    {
+        "pk": 46,
+        "colorcode": "#FF0000",
+        "defaultcolor": "czerwony",
+        "colorname": "czerwony",
+        "clicks": 24393
+    },
+    {
+        "pk": 25,
+        "colorcode": "#0300FD",
+        "defaultcolor": "niebieski",
+        "colorname": "błękit Thénarda",
+        "clicks": 57799
+    },
+    {
+        "pk": 4,
+        "colorcode": "#6C696B",
+        "defaultcolor": "szary",
+        "colorname": "antracytowy",
+        "clicks": 36713
+    },
+    {
+        "pk": 151,
+        "colorcode": "#ACE1AF",
+        "defaultcolor": "zielony",
+        "colorname": "seledynowy",
+        "clicks": 32610
+    },
+    {
+        "pk": 94,
+        "colorcode": "#FA8072",
+        "defaultcolor": "różowy",
+        "colorname": "łososiowy",
+        "clicks": 56278
+    },
+    {
+        "pk": 1,
+        "colorcode": "#F3EFDF",
+        "defaultcolor": "beżowy",
+        "colorname": "alabastrowy",
+        "clicks": 30974
+    },
+    {
+        "pk": 47,
+        "colorcode": "#F5F5DC",
+        "defaultcolor": "beżowy",
+        "colorname": "ecru",
+        "clicks": 27525
+    },
+    {
+        "pk": 3,
+        "colorcode": "#E61C66",
+        "defaultcolor": "różowy",
+        "colorname": "amarantowy",
+        "clicks": 45128
+    },
+    {
+        "pk": 17,
+        "colorcode": "#600201",
+        "defaultcolor": "brązowy",
+        "colorname": "burgund",
+        "clicks": 37754
+    },
+    {
+        "pk": 116,
+        "colorcode": "#0000FF",
+        "defaultcolor": "niebieski",
+        "colorname": "niebieski",
+        "clicks": 24807
+    },
+    {
+        "pk": 2,
+        "colorcode": "#76EEC6",
+        "defaultcolor": "zielony",
+        "colorname": "akwamaryna",
+        "clicks": 36922
+    },
+    {
+        "pk": 21,
+        "colorcode": "#007FFF",
+        "defaultcolor": "niebieski",
+        "colorname": "błękit lazurowy",
+        "clicks": 40660
+    },
+    {
+        "pk": 11,
+        "colorcode": "#361D4E",
+        "defaultcolor": "fioletowy",
+        "colorname": "biskupi",
+        "clicks": 40962
+    },
+    {
+        "pk": 147,
+        "colorcode": "#FFCCDD",
+        "defaultcolor": "różowy",
+        "colorname": "różowy",
+        "clicks": 22495
+    },
+    {
+        "pk": 174,
+        "colorcode": "#30D5C8",
+        "defaultcolor": "zielony/niebieski",
+        "colorname": "turkusowy",
+        "clicks": 41487
+    },
+    {
+        "pk": 22,
+        "colorcode": "#33A1C9",
+        "defaultcolor": "niebieski",
+        "colorname": "błękit pawi",
+        "clicks": 41034
+    },
+    {
+        "pk": 198,
+        "colorcode": "#2B1D04",
+        "defaultcolor": "brązowy",
+        "colorname": "wenge",
+        "clicks": 16
+    }
+]

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="author" content="Anna Warzecha" />
+    <meta name="keywords" content="color converter, female color, male color" />
+    <meta name="description" content="female»male color converter"/>
+    <meta name="revisit-after" content="1 day" />
+    <meta name="robots" content="index,follow,all" />
+    <title>female&raquo;male color converter</title>
+    <script type="text/javascript" src="static/js/jquery-1.11.3.min.js"></script>
+    <script type='text/javascript' src='static/js/jquery.autocomplete.min.js'></script>
+    <script type="text/javascript" src="static/js/jqcloud.min.js"></script>
+    <script type="text/javascript" src="static/js/fmcc.js"></script>
+    <link rel="stylesheet" type="text/css" href="static/css/jquery-ui.min.css" />
+    <link rel="stylesheet" type="text/css" href="static/css/jqcloud.min.css" />
+    <link rel="stylesheet" type="text/css" href="static/css/style.css" />
+  </head>
+  <body>
+    <div id="content">
+      <div id="main">
+        <div id="top">
+          <h1>female&raquo;male color converter</h1>
+        </div>
+        <div id="left">
+          <p>
+            Wpisz nazwę lub pierwsze litery nazwy koloru z "kobiecej" palety, poczekaj chwilę, a w efekcie otrzymasz odzwierciedlenie rzeczywiste danego koloru, kod HEX oraz opis man-friendly.
+          </p>
+          <p>
+            Większość odzwierciedleń kolorów zostało pobranych z <a href="http://www.colourlovers.com">COLOURlovers</a> i zaktualizowanych o propozycje życzliwych ludzi.
+          </p>
+          <div id="cloud">
+          </div>
+        </div>
+        <div id="right">
+          <p>
+            <input type="text" id="colorName" name="colorName" />
+          </p>
+          <div id="loading">
+            <img src="static/img/loading.gif" alt="Ładowanie"/>
+          </div>
+          <div id="result">
+            <div id="colorBox"></div>
+            HEX: <span id="colorCode"></span>
+            Opis: <span id="defaultColor"></span>
+          </div>
+        </div>
+        <div id="bottom">
+          <span class="right">
+            licencja <a rel="license" href="http://creativecommons.org/licenses/by/2.5/pl/">
+              <img alt="Creative Commons License" src="static/img/cc.ico" style="height: 16px; width: 16px;"/>
+            </a>
+          </span>
+          <span><a href="https://github.com/aniav/fmcc.ania.cc/blob/master/README.md">¿WTF?</a></span>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
