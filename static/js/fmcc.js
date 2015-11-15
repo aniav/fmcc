@@ -1,6 +1,23 @@
 /*jslint browser: true*/ /*global $*/
 (function() {
     "use strict";
+    var shuffle = function(array) {
+        var tmp, current, top = array.length;
+
+        if (!top) {
+            return array;
+        }
+
+        while(--top) {
+            current = Math.floor(Math.random() * (top + 1));
+            tmp = array[current];
+            array[current] = array[top];
+            array[top] = tmp;
+        }
+
+        return array;
+    };
+
     var loadColor = function(item) {
         $("#colorName")
             .data("ui-autocomplete")
@@ -24,9 +41,7 @@
     };
 
     var prepareCloud = function(data) {
-        var words = data.sort(function() {
-            return Math.random();
-        });
+        var words = shuffle(data);
         words = words.slice(0, 15);
         var cloud = $("#cloud");
         $(words).each(function(index, item) {
