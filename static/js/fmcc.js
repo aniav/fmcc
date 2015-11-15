@@ -34,8 +34,7 @@
                     "<a />", {
                         href: "#",
                         title: "szukano " + item.clicks + " razy",
-                        text: item.colorname + " ",
-                        dataColorcode: item.colorcode
+                        text: item.colorname + " "
                     }
                 )
                 .css("color", item.colorcode)
