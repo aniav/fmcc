@@ -29,7 +29,7 @@
     },
     {
         "pk": 55,
-        "colorcode": "#696968",
+        "colorcode": "#c0c0d8",
         "defaultcolor": "szary",
         "colorname": "gołębi",
         "clicks": 2119
@@ -1384,5 +1384,12 @@
         "defaultcolor": "brązowy",
         "colorname": "wenge",
         "clicks": 16
+    },
+    {
+        "pk": 200,
+        "colorcode": "#870F57",
+        "defaultcolor": "fioletowy",
+        "colorname": "karmin alizarynowy",
+        "clicks": 1
     }
 ]
