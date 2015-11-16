@@ -1,7 +1,8 @@
 /*jslint browser: true*/ /*global $*/
 (function() {
     "use strict";
-    var shuffle = function(array) {
+
+    function shuffle(array) {
         var tmp, current, top = array.length;
 
         if (!top) {
@@ -16,31 +17,31 @@
         }
 
         return array;
-    };
+    }
 
-    var loadColor = function(item) {
+    function itemDict(item) {
+        return {
+            "value": item.colorcode,
+            "label": item.colorname,
+            "defaultColor": item.defaultcolor
+        };
+    }
+
+    function loadColor(item) {
         $("#colorName")
             .data("ui-autocomplete")
             ._trigger("select", "autocompleteselect", {
-                item: {
-                    "value": item.colorcode,
-                    "label": item.colorname,
-                    "defaultColor": item.defaultcolor
-                }
+                item: itemDict(item)
             });
-    };
+    }
 
-    var parseColors = function(data) {
+    function parseColors(data) {
         return $.map(data, function(item) {
-            return {
-                "value": item.colorcode,
-                "label": item.colorname,
-                "defaultColor": item.defaultcolor
-            };
+            itemDict(item);
         });
-    };
+    }
 
-    var prepareCloud = function(data) {
+    function prepareCloud(data) {
         var words = shuffle(data);
         words = words.slice(0, 15);
         var cloud = $("#cloud");
@@ -60,9 +61,9 @@
                 });
             cloud.append(a);
         });
-    };
+    }
 
-    var prepareColorBox = function(item) {
+    function prepareColorBox(item) {
         $("#loading").show();
         $("#colorName").val(item.label);
         $("#colorBox").css("background-color", item.value);
@@ -70,7 +71,7 @@
         $("#defaultColor").text(item.defaultColor);
         $("#loading").fadeOut("slow");
         $("#result").show();
-    };
+    }
 
     $().ready(function() {
         var colors;
