@@ -37,7 +37,7 @@
 
     function parseColors(data) {
         return $.map(data, function(item) {
-            itemDict(item);
+            return itemDict(item);
         });
     }
 
