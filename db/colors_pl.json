@@ -1325,7 +1325,7 @@
     {
         "pk": 17,
         "colorcode": "#600201",
-        "defaultcolor": "brązowy",
+        "defaultcolor": "czerwony/brązowy",
         "colorname": "burgund",
         "clicks": 37754
     },
@@ -1404,6 +1404,27 @@
         "colorcode": "#D5CBB4",
         "defaultcolor": "brązowy",
         "colorname": "szarobobrzasty",
+        "clicks": 1
+    },
+    {
+        "pk": 203,
+        "colorcode": "#DBCBB44",
+        "defaultcolor": "beżowy/brązowy",
+        "colorname": "ostrygowy",
+        "clicks": 1
+    },
+    {
+        "pk": 204,
+        "colorcode": "#C09A6B",
+        "defaultcolor": "beżowy/brązowy",
+        "colorname": "wielbłądzi",
+        "clicks": 1
+    },
+    {
+        "pk": 205,
+        "colorcode": "#FF7518",
+        "defaultcolor": "pomarańczowy",
+        "colorname": "dyniowy",
         "clicks": 1
     }
 ]
