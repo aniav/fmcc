@@ -9,7 +9,7 @@
             return array;
         }
 
-        while(--top) {
+        while (--top) {
             current = Math.floor(Math.random() * (top + 1));
             tmp = array[current];
             array[current] = array[top];
@@ -21,8 +21,9 @@
 
     function itemDict(item) {
         return {
-            "value": item.colorcode,
+            "value": item.colorname,
             "label": item.colorname,
+            "colorCode": item.colorcode,
             "defaultColor": item.defaultcolor
         };
     }
@@ -66,8 +67,8 @@
     function prepareColorBox(item) {
         $("#loading").show();
         $("#colorName").val(item.label);
-        $("#colorBox").css("background-color", item.value);
-        $("#colorCode").text(item.value);
+        $("#colorBox").css("background-color", item.colorCode);
+        $("#colorCode").text(item.colorCode);
         $("#defaultColor").text(item.defaultColor);
         $("#loading").fadeOut("slow");
         $("#result").show();
@@ -88,6 +89,14 @@
             select: function(e, ui) {
                 e.preventDefault();
                 prepareColorBox(ui.item);
+            },
+            response: function(event, ui) {
+                if (ui.content.length === 1) {
+                    $(this).data("ui-autocomplete")._trigger("select", "autocompleteselect", {
+                        item: ui.content[0]
+                    });
+                    $(this).autocomplete("close");
+                }
             }
         });
     });
