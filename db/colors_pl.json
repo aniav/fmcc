@@ -1426,5 +1426,12 @@
         "defaultcolor": "pomarańczowy",
         "colorname": "dyniowy",
         "clicks": 1
+    },
+    {
+        "pk": 206,
+        "colorcode": "#0BDA51",
+        "defaultcolor": "zielony",
+        "colorname": "malachitowy",
+        "clicks": 0
     }
 ]
