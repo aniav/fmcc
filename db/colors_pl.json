@@ -1426,5 +1426,19 @@
         "defaultcolor": "pomarańczowy",
         "colorname": "dyniowy",
         "clicks": 1
-    }
+    },
+    {
+        "pk": 206,
+        "colorcode": "#C09A6B",
+        "defaultcolor": "beżowy/brązowy",
+        "colorname": "kamel",
+        "clicks": 1
+    },
+    {
+        "pk": 206,
+        "colorcode": "#C09A6B",
+        "defaultcolor": "beżowy/brązowy",
+        "colorname": "camel",
+        "clicks": 1
+    },
 ]
