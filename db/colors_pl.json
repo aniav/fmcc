@@ -1440,5 +1440,12 @@
         "defaultcolor": "beżowy/brązowy",
         "colorname": "camel",
         "clicks": 1
+    },
+    {
+        "pk": 208,
+        "colorcode": "#91B099",
+        "defaultcolor": "zielony",
+        "colorname": "metaliczny miętowy",
+        "clicks": 1
     }
 ]
